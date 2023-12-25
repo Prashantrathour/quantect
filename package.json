@@ -38,7 +38,8 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ]
+    ],
+    "homepage":"."
   },
   "devDependencies": {
     "install": "^0.13.0",
